@@ -25,4 +25,9 @@ public class calcView {
 
         return num2;
     }
+
+    public void printTotal(int total){
+
+        System.out.print(total);
+    }
 }
